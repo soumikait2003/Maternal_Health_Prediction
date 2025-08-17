@@ -4,9 +4,6 @@
 
 Welcome to MatriSure, an innovative platform dedicated to advancing maternal and fetal health through AI-powered predictive analysis. MatriSure empowers healthcare professionals and expectant mothers by providing accurate risk predictions and proactive health management during pregnancy.
 
-### Webapp URL
-MatriSure: [MatriSure link](https://maternalcare-cbupxflodo4uhz8hzqqqng.streamlit.app/)
-
 ## Key Features
 
 - **Pregnancy Risk Prediction:** Utilizes advanced machine learning algorithms to analyze parameters such as age, blood sugar levels, blood pressure, and more. Provides early detection of potential risks to support safer pregnancies.
