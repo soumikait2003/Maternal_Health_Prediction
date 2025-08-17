@@ -29,7 +29,7 @@ Follow these steps to run the Streamlit code locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-usernme/matrisure.git
+git clone https://github.com/your-username/matrisure.git
 cd matrisure
 ```
 ### Install Dependencies
